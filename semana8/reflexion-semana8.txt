@@ -1,0 +1,14 @@
+La seguridad digital es un pilar fundamental para cualquier plataforma tecnologica,
+especialmente cuando es usada por comunidades o en procesos participativos donde
+se maneja informacion sensible de ciudadanos. Una brecha de seguridad puede exponer
+datos personales, comprometer la confianza de los usuarios y paralizar los servicios.
+
+En plataformas comunitarias, donde participan personas con distintos niveles de
+conocimiento tecnico, es especialmente importante aplicar buenas practicas como
+el uso de contrasenas seguras, conexiones cifradas y control de accesos. Esto
+protege tanto a los administradores como a los usuarios finales.
+
+Ademas, en contextos participativos donde se registran reportes, alertas o
+solicitudes ciudadanas, garantizar la seguridad de esos datos es una
+responsabilidad etica. La comunidad debe poder confiar en que su informacion
+esta protegida y sera usada unicamente para los fines establecidos.
